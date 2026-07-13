@@ -76,4 +76,3 @@ The chatbot successfully retrieves relevant information from the knowledge base 
 - Enhanced memory management
 - Cloud based deployment
 - Integration with larger language models
-```
