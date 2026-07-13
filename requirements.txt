@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+chromadb
+sentence-transformers
+transformers
+torch
+streamlit
+accelerate
