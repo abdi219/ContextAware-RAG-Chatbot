@@ -6,6 +6,10 @@ Developed as part of the DeveloperHub Corporation AI/ML Engineering Internship, 
 
 This project implements a conversational AI system that retrieves relevant information from a custom knowledge base and generates accurate responses using a Retrieval Augmented Generation pipeline. The chatbot combines document embeddings, vector storage, language models, and conversation history to provide meaningful context aware interactions.
 
+## Visualization
+
+<img width="1901" height="876" alt="Screenshot 2026-07-13 205443" src="https://github.com/user-attachments/assets/51160190-ebd8-4f41-ba88-c1ba88953809" />
+
 ## Features
 
 - Custom knowledge base creation and processing
